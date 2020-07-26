@@ -1,20 +1,3 @@
-"""from tkinter import *
-import random
-Root = Tk()
-
-cnvs = Canvas(Root,width=500,height=500)
-cnvs.pack()
-
-
-wheel = PhotoImage("C:\\Users\\rushil\\Desktop\\python\\spin_the_wheel.png")
-lbl = Label(image=wheel).pack
-
-cnvs.create_image(100,100,anchor = NW,image=wheel)
-print("YYYY")
-
-
-Root.mainloop()"""
-
 import random
 import time
 
